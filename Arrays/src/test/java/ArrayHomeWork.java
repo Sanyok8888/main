@@ -34,7 +34,7 @@ public class ArrayHomeWork {
         for (int a : resultArray ){
             System.out.println("[" + a + "]");
         }
-
+//a
     }
 }
 
