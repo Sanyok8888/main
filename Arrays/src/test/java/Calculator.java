@@ -3,7 +3,7 @@ public class Calculator {
         CalculatorClass calculatorClass = new CalculatorClass();
 
 //+
-        int intResult = calculatorClass.augment(5,5,5,5,5,5,5,5,5,5); //int
+        int intResult = calculatorClass.augment(5,5,5,5,5,5,5,5,5,8); //int
         System.out.println(intResult + " - plus value");
 
         long longResult = calculatorClass.augment(1000000000l,2000000000l,3000000000l,4000000000l);//long
@@ -63,6 +63,6 @@ public class Calculator {
         System.out.println(doubleResultMultiple + " - multiple value");
 
 
-
+//a
     }
 }
