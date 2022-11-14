@@ -4,7 +4,6 @@ public class ArrayHomeWork {
 
     public static void main(String[] args) {
 
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter inputArray size:");
@@ -34,7 +33,7 @@ public class ArrayHomeWork {
         for (int a : resultArray ){
             System.out.println("[" + a + "]");
         }
-//a
+
     }
 }
 
