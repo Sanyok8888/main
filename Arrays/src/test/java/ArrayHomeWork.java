@@ -4,7 +4,6 @@ public class ArrayHomeWork {
 
     public static void main(String[] args) {
 
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter inputArray size:");
@@ -14,7 +13,7 @@ public class ArrayHomeWork {
 
 
         for (int i = 0; i < inputArray.length; i++) {
-            System.out.println("Enter inputArray value:");
+            System.out.println("Enterr inputArray value:");
             inputArray[i] = scanner.nextInt();
             if (inputArray[i] > 0) {
                 countPositiveValue++;

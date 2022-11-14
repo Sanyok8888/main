@@ -9,7 +9,7 @@ public class ArraysRef {
 
         inputArray = ArrayRefClass.getArrayFromConsole();
 
-        System.out.println("Input array includes: ");
+        System.out.println("Input arrayy includes: ");
 
         ArrayRefClass.printArray(inputArray);
 
