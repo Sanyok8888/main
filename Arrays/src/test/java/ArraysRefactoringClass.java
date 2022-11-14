@@ -21,7 +21,7 @@ public class ArraysRefactoringClass {
         }
         return array;
     }
-
+//a
 
     //ResultArray printing
     void printArray(int[] array) {
